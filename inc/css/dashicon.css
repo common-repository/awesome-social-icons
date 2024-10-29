@@ -1,0 +1,8 @@
+@font-face {
+  font-family: awesomeIcon;
+  src: url('../fonts/mage.otf');
+}
+#toplevel_page_awesomeSoicalFloatingSidebar .wp-menu-image.dashicons-before.dashicons-admin-generic::before {
+    font-family: awesomeIcon;
+    content: "K";
+}
